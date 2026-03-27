@@ -200,7 +200,7 @@ Add FFmpeg location:
 **Chaitanya K**
 
 Java Developer  
-Spring Boot | Microservices | Kafka | REST APIs
+Spring Boot | Microservices | Kafka | REST APIs | AWS | Kubernetes | Docker
 
 ---
 
